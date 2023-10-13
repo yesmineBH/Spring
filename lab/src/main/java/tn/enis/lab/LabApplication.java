@@ -42,12 +42,12 @@ public class LabApplication implements CommandLineRunner {
 				.dateInscription(new Date())
 				.dateNaissance(new Date())
 				.diplome("ING")
-				.email("zied@gmail.com")
-				.password("zied")
+				.email("yesmine@gmail.com")
+				.password("1234")
 				.encadrant(null)
 				.cv("cv1")
-				.nom("Dammak")
-				.prenom("Zied)")
+				.nom("BH")
+				.prenom("Yesmine)")
 				.sujet("blockhain")
 				.build();
 		membreService.addMember(etd1);
