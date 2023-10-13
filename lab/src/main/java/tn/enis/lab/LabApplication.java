@@ -60,8 +60,8 @@ public class LabApplication implements CommandLineRunner {
 				.email("etd2@gmail.com")
 				.password("pass1")
 				.encadrant(null)
-				.nom("abida")
-				.prenom("youssefa")
+				.nom("abid")
+				.prenom("yassmine")
 				.sujet("blockhain")
 				.cv("cv1")
 				.build();
