@@ -56,7 +56,7 @@ public class LabApplication implements CommandLineRunner {
 				.cin("123456")
 				.dateInscription(new Date())
 				.dateNaissance(new Date())
-				.diplome("mastère")
+				.diplome("ingenieur")
 				.email("etd2@gmail.com")
 				.password("pass1")
 				.encadrant(null)
